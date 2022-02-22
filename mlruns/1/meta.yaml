@@ -1,0 +1,4 @@
+artifact_location: file:///Users/julia_welch/code/julia-welch/TaxiFareModel/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: test_experiment

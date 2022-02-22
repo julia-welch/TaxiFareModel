@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julia_welch/code/julia-welch/TaxiFareModel/mlruns/1/527ecfc17e074c498d7eb6b948eda99f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 527ecfc17e074c498d7eb6b948eda99f
+run_uuid: 527ecfc17e074c498d7eb6b948eda99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645541300262
+status: 1
+tags: []
+user_id: unknown
